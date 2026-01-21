@@ -1,0 +1,1 @@
+{ "@odata.type": "#microsoft.graph.domainDnsTxtRecord", "id": "aceff52c-06a5-447f-ac5f-256ad243cc5c", "isOptional": false, "label": "launay.dev", "recordType": "Txt", "supportedService": "Email", "ttl": 3600, "text": "MS=ms63425048" }
